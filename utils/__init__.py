@@ -1,4 +1,4 @@
-import os 
+import os
 from .encrypt import AES_Encrypt, generate_captcha_key, enc, verify_param
 from .reserve import reserve
 
