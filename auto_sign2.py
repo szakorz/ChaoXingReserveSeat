@@ -3,7 +3,7 @@ import time
 
 class ChaoxingAutoSign:
     def __init__(self):
-        self.username = "19375185810"
+        self.username = "15574125875"
         self.password = "Yanshaoyun111"
         self.session = requests.Session()
         self.session.headers.update({
