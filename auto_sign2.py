@@ -4,7 +4,7 @@ import time
 class ChaoxingAutoSign:
     def __init__(self):
         self.username = "15574125875"
-        self.password = "Yanshaoyun111"
+        self.password = "tang2002"
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1',
